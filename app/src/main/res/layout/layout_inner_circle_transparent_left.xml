@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.jack.ycrcardlayouthepler.customView.CustomLayoutLeft xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@drawable/shape_custom_layout_left"
+    android:gravity="bottom">
+
+    <View
+        android:layout_width="20dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="120dp" />
+
+</com.jack.ycrcardlayouthepler.customView.CustomLayoutLeft>
